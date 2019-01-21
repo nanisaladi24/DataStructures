@@ -1,0 +1,1 @@
+This directory contains all codes concerned with Hashing techniques.
